@@ -129,6 +129,13 @@ googleAnalytics = ""
 
   # Register section
   # You only need ONE of these active
+  
+   [params.mailchimp]
+    enable = true
+    title = "Sign up for e-mail updates"
+    bg = true
+  
+  
   [params.tito]
     enable = false
     title = "Register"
