@@ -247,7 +247,7 @@ googleAnalytics = ""
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected
-.
+
 #    [[params.team.members]]
 #      img = "profile-rhian.png"
 #      name = "Rhian Davis"
@@ -290,9 +290,7 @@ googleAnalytics = ""
 a/"]
       ]
 
-
-
-   [[params.team.members]]
+    [[params.team.members]]
       img = "profile-ahmed.png"
       name = "Ahmed Salhin"
       #position = "Organiser Position 3"
@@ -301,13 +299,6 @@ a/"]
         ["fa-github", "https://github.com/ahmedsalhin"],
         ["fa-linkedin", "https://www.linkedin.com/in/ahmedsalhin/"]
        ]
-
-
-
-
-
-
-
 
   # Client section
   [params.clients_list]
@@ -329,11 +320,9 @@ a/"]
       logo = "ncl.png"
       link = "https://www.ncl.ac.uk/"
 
-
     [[params.clients]]
       logo = "sage.png"
       link = "https://www.sage.com/en-gb/"
-
 
   [params.diversity]
     enable = true
