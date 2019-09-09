@@ -300,7 +300,11 @@ googleAnalytics = ""
     [[params.clients]]
       logo = "jumping-rivers.png"
       link = "https://www.jumpingrivers.com/?utm_source=satRday&utm_medium=newcastle2020"
-  
+
+    [[params.clients]]
+      logo = "ncl.png"
+      link = "https://www.ncl.ac.uk/"
+
   [params.diversity]
     enable = true
     title = "Diversity"
