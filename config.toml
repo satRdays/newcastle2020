@@ -292,6 +292,15 @@ a/"]
 
 
 
+   [[params.team.members]]
+      img = "profile-ahmed.png"
+      name = "Ahmed Salhin"
+      #position = "Organiser Position 3"
+      social = [
+        ["fa-twitter", "https://twitter.com/AhmedSalhin"],
+        ["fa-github", "https://github.com/ahmedsalhin"],
+        ["fa-linkedin", "https://www.linkedin.com/in/ahmedsalhin/"]
+       ]
 
 
 
@@ -319,6 +328,12 @@ a/"]
     [[params.clients]]
       logo = "ncl.png"
       link = "https://www.ncl.ac.uk/"
+
+
+    [[params.clients]]
+      logo = "sage.png"
+      link = "https://www.sage.com/en-gb/"
+
 
   [params.diversity]
     enable = true
