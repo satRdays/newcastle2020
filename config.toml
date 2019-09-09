@@ -231,59 +231,74 @@ googleAnalytics = ""
     bg = true
     iframesrc = "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12770.336629178193!2d174.7680403!3d-36.8524341!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x868a73f26ed3e621!2sDepartment+of+Statistics%2C+University+of+Auckland!5e0!3m2!1sen!2suk!4v1533231461829"
 
-  # Team section
+
+ # Team section
   [params.team]
-    enable = false
+    enable = true
     # Possibility to center items
     #center = true
-    title = "Team"
+    title = "Organising committee"
+    #subtitle = "The people putting it together"
     bg = false
     description = ""
-    speakers = "Speakers"
+    speakers = "Keynote Speakers"
     
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
-    # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
+    # Suggestion: Image size should be at least 360px*360px or the alignment might be affected
+.
+#    [[params.team.members]]
+#      img = "profile-rhian.png"
+#      name = "Rhian Davis"
+#      #position = "Organiser Position 2"
+#      social = [
+#        #["fa-twitter", "#"],
+#        ["fa-github", "https://github.com/CaterinaC"],
+#        ["fa-linkedin", "https://www.linkedin.com/in/alexandra-caterina-constantinescu-8168355
+#a/"]
+#      ]
+
     [[params.team.members]]
-      img = "faceholder.png"
-      name = "Organiser Name 1"
-      position = "Organiser Position 1"
-      reportsTo = ""
-      livesIn = "[Munich, Germany](#some-maps-url)"
-      scope = [
-        "Role 1 for [thing 1](#)",
-        "Role 2 for [thing 2](#)",
-        "Role 3 for [thing 3](#)"
-      ]
+      img = "profile-colin.jpg"
+      name = "Colin Gillespie"
+      #position = "Organiser Position 1"
+      #reportsTo = ""
+      #livesIn = "[Munich, Germany](#some-maps-url)"
+      #scope = [
+      #  "Role 1 for [thing 1](#)",
+      #  "Role 2 for [thing 2](#)",
+      #  "Role 3 for [thing 3](#)"
+      #]
       # For bio markdown and even multiline strings are available.
-      bio = """I do things,
-      and stuff"""
+     # bio = """I do things,
+     # and stuff"""
       social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-twitter", "https://twitter.com/csgillespie"],
+        ["fa-github", "https://github.com/csgillespie"],
+        ["fa-linkedin", "https://www.linkedin.com/in/colin-gillespie-25028332/"]
       ]
 
     [[params.team.members]]
-      img = "faceholder.png"
-      name = "Organiser Name 2"
-      position = "Organiser Position 2"
+      img = "profile-caterina.png"
+      name = "Caterina Constantinescu"
+      #position = "Organiser Position 2"
       social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
+        #["fa-twitter", "#"],
+        ["fa-github", "https://github.com/CaterinaC"],
+        ["fa-linkedin", "https://www.linkedin.com/in/alexandra-caterina-constantinescu-8168355
+a/"]
       ]
 
-    [[params.team.members]]
-      img = "faceholder.png"
-      name = "Organiser Name 3"
-      position = "Organiser Position 3"
-      social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
-      ]
+
+
+
+
+
+
+
+
+
 
   # Client section
   [params.clients_list]
