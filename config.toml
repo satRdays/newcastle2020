@@ -286,8 +286,7 @@ googleAnalytics = ""
       social = [
         #["fa-twitter", "#"],
         ["fa-github", "https://github.com/CaterinaC"],
-        ["fa-linkedin", "https://www.linkedin.com/in/alexandra-caterina-constantinescu-8168355
-a/"]
+        ["fa-linkedin", "https://www.linkedin.com/in/alexandra-caterina-constantinescu-8168355a/"]
       ]
 
     [[params.team.members]]
