@@ -2,8 +2,8 @@ img = "profile-mine.png"
 name = "Mine Çetinkaya-Rundel"
 organisation = "University of Edinburgh, RStudio"
 role = "Senior Lecturer, Data Scientist and Professional Educator"
-social = [
-        ["fa-twitter", "https://twitter.com/minebocek"],
-        ["fa-github", "https://github.com/mine-cetinkaya-rundel"],
-        ["fa-globe", "mine-cr.com"]
-      ]
+#social = [
+#        ["fa-twitter", "https://twitter.com/minebocek"],
+#        ["fa-github", "https://github.com/mine-cetinkaya-rundel"],
+#        ["fa-globe", "mine-cr.com"]
+#      ]
