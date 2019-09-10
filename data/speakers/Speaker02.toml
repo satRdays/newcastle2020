@@ -1,6 +1,6 @@
 img = "profile-julia.png"
 name = "Julia Silge"
-organisation = "Stack Overflow""
+organisation = "Stack Overflow"
 role = "Data Scientist"
 social = [
         ["fa-twitter", "https://twitter.com/juliasilge],
