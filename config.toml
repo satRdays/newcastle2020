@@ -208,21 +208,21 @@ googleAnalytics = ""
 
     [[params.about.events]]
       img = "1.jpg"
-      date = "01/09/2019"
+      date = "01/10/2019"
       title = "Early Bird Ticket Sales"
       description = "Early round of tickets now available at discount."
 
     [[params.about.events]]
       img = "3.jpg"
-      date = "01/09/2019"
+      date = "01/10/2019"
       title = "Call For Papers"
       description = "Submissions for speakers are now open."
 
     [[params.about.events]]
       img = "4.jpg"
-      date = "30/10/2019"
+      date = "30/11/2019"
       title = "Call For Papers Ends"
-      description = "Cut off date for speaker submissions."
+      description = "Cut off date for submissions."
   
   # Location section
   [params.location]

@@ -1,10 +1,10 @@
-img = "faceholder.png"
-name = "Speaker Name 01"
-organisation = "Company 1"
-role = "Role 1"
+img = "profile-mine.png"
+name = "Mine Çetinkaya-Rundel"
+organisation = "University of Edinburgh, RStudio""
+"
+role = "Senior Lecturer, Data Scientist and Professional Educator"
 social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"],
-        ["fa-globe", "#"]
+        ["fa-twitter", "https://twitter.com/minebocek"],
+        ["fa-github", "https://github.com/mine-cetinkaya-rundel"],
+        ["fa-globe", "mine-cr.com"]
       ]
