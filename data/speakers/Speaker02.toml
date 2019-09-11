@@ -2,11 +2,11 @@ img = "profile-julia.png"
 name = "Julia Silge"
 organisation = "Stack Overflow"
 role = "Data Scientist"
-#social = [
-#        ["fa-twitter", "https://twitter.com/juliasilge],
-#        ["fa-github", "https://github.com/juliasilge/"],
-#        ["fa-linkedin", "https://www.linkedin.com/in/juliasilge"],
-#        ["fa-globe", "https://juliasilge.com/"]
-#      ]
+social = [
+        ["fa-twitter", "https://twitter.com/juliasilge],
+        ["fa-github", "https://github.com/juliasilge/"],
+        ["fa-linkedin", "https://www.linkedin.com/in/juliasilge"],
+        ["fa-globe", "https://juliasilge.com/"]
+      ]
 
 
