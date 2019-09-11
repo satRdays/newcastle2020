@@ -129,13 +129,13 @@ googleAnalytics = ""
 
   # Register section
   # You only need ONE of these active
-  
+
    [params.mailchimp]
     enable = true
     title = "Sign up for e-mail updates"
     bg = true
-  
-  
+
+
   [params.tito]
     enable = false
     title = "Register"
@@ -148,8 +148,8 @@ googleAnalytics = ""
     enable = false
     title = "Register"
     bg = true
-    eid = "32416000129" 
-      # Go to https://www.eventbrite.co.uk/support/articles/en_US/How_To/how-to-sell-eventbrite-tickets-registrations-on-your-website-using-embeddable-widgets?lg=en_GB 
+    eid = "32416000129"
+      # Go to https://www.eventbrite.co.uk/support/articles/en_US/How_To/how-to-sell-eventbrite-tickets-registrations-on-your-website-using-embeddable-widgets?lg=en_GB
       # Follow instructions to discover your 'Website Integration' embeddable iframe
       # Take ONLY the numeric string between "eid=" and "&ref=etckt"
       # Supply this string as the value to `eid` above
@@ -162,7 +162,7 @@ googleAnalytics = ""
       # Go to www.tickettailor.com and open your event page
       # Note the number at the end of the url e.g. https://www.tickettailor.com/event/view/id/162430
       # Supply the number ONLY in `eventviewid`
-  
+
   # Call for papers section
   [params.callforpapers]
     enable = false
@@ -223,7 +223,7 @@ googleAnalytics = ""
       date = "30/11/2019"
       title = "Call For Papers Ends"
       description = "Cut off date for submissions."
-  
+
   # Location section
   [params.location]
     enable = false
@@ -242,22 +242,21 @@ googleAnalytics = ""
     bg = false
     description = ""
     speakers = "Keynote Speakers"
-    
+
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected
 
-#    [[params.team.members]]
-#      img = "profile-rhian.png"
-#      name = "Rhian Davis"
-#      #position = "Organiser Position 2"
-#      social = [
-#        #["fa-twitter", "#"],
-#        ["fa-github", "https://github.com/CaterinaC"],
-#        ["fa-linkedin", "https://www.linkedin.com/in/alexandra-caterina-constantinescu-8168355
-#a/"]
-#      ]
+    [[params.team.members]]
+      img = "profile-rhian.png"
+      name = "Rhian Davies"
+      #position = "Organiser Position 2"
+      social = [
+        ["fa-twitter", "https://twitter.com/trianglegirl"],
+        ["fa-github", "https://github.com/trianglegirl"],
+        ["fa-linkedin", "https://www.linkedin.com/in/trianglegirl"]
+      ]
 
     [[params.team.members]]
       img = "profile-colin.jpg"
@@ -333,7 +332,7 @@ googleAnalytics = ""
     enable = true
     bg = false
     title = "Contact us"
-    
+
   email = "info@jumpingrivers.com"
 
   # Footer section
