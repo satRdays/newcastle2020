@@ -322,6 +322,10 @@ googleAnalytics = ""
       logo = "sage.png"
       link = "https://www.sage.com/en-gb/"
 
+    [[params.clients]]
+      logo = "rstudio.png"
+      link = "https://www.rstudio.com/"
+
   [params.diversity]
     enable = true
     title = "Diversity"
