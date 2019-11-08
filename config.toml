@@ -219,13 +219,13 @@ googleAnalytics = ""
 
     [[params.about.events]]
       img = "3.jpg"
-      date = "01/10/2019"
+      date = "18/11/2019"
       title = "Call For Papers"
       description = "Submissions for speakers are now open."
 
     [[params.about.events]]
       img = "4.jpg"
-      date = "30/11/2019"
+      date = "20/12/2019"
       title = "Call For Papers Ends"
       description = "Cut off date for submissions."
 
