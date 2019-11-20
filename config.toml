@@ -221,7 +221,7 @@ googleAnalytics = ""
       img = "3.jpg"
       date = "02/12/2019"
       title = "Call For Papers"
-      description = "Submissions for speakers are now open."
+      description = "Submissions for speakers will open."
 
     [[params.about.events]]
       img = "4.jpg"
