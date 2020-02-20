@@ -219,15 +219,9 @@ googleAnalytics = ""
 
     [[params.about.events]]
       img = "3.jpg"
-      date = "02/12/2019"
+      date = "02/12/2019 - 31/01/2020"
       title = "Call For Papers"
-      description = "Submissions for speakers is currently open. To submit an abstract please [fill in this form](https://jumpingrivers.typeform.com/to/j2rSxU)."
-
-    [[params.about.events]]
-      img = "4.jpg"
-      date = "31/01/2020"
-      title = "Call For Papers Ends"
-      description = "Cut off date for submissions."
+      description = "Submissions for speakers has closed."
 
   # Location section
   [params.location]
