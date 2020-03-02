@@ -1,0 +1,18 @@
+modalID: 3
+title: "Stepan Sindelar"
+subtitle: "Faster R with FastR"
+date: 2020-04-04
+startsAt: 11:30
+endsAt: 11:55
+img: stepan-sindelar.jpeg
+preview: stepan-sindelar.jpeg
+client: Developer at Oracle Labs
+
+clientLink: "#"
+bio: ""
+category: Category 1
+description: "FastR is a GraalVM-based implementation of the R language that provides significant improvements in the performance of R code; embedding of the R execution engine into Java applications; and the ability to interface with other GraalVM and JVM languages such as Python, Java, and Scala. FastR aims to be fully compatible with GNU-R: it can run unmodified popular complex CRAN packages such as ggplot2 or Shiny. The talk will look at how to get started with FastR and how well it works on real-world R code."
+
+talk: true
+
+

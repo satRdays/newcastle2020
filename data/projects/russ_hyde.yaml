@@ -1,0 +1,16 @@
+modalID: 5
+title: "Russ Hyde"
+subtitle: "Your Code As Data"
+date: 2020-04-04
+startsAt: 13:10 
+endsAt: 13:35
+img: russ-hyde.jpg
+preview: russ-hyde.jpg
+client: Bioinformatician at University of Glasgow
+clientLink: "#"
+bio: ""
+category: Category 1
+description: "The code you write this month won’t stay still. You’ll eventually want to add extra features to that package or extra analyses to that project. You might find a bug or try to speed things up. Your tests might start to fail when dependencies change or your report might not build on a different system. As it evolves to accommodate these changes, it is worth reappraising your code. R has a range of tools to help assess your current code-base encompassing static analysis (style / syntax / structure: lintr, goodpractice, cyclocomp, pkgnet) and dynamic analysis (test coverage / benchmarking / profiling: covr, bench, profvis). For version-controlled projects, the git history can provide an archaeological and social view of the code base that complements analysis of the code itself. In this talk (inspired by Adam Tornhill’s book ‘Software Design X-Rays’), I show how existing R tools for working with git can be combined with code analysis tools to provide a rich dataset about your code."
+talk: true
+
+

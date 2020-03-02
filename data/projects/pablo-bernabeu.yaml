@@ -1,0 +1,16 @@
+modalID: 7
+title: "Pablo De Juan Bernabeu"
+subtitle: "Open Data and Reproducibility v2.0"
+date: 2020-04-04
+startsAt: 14:00
+endsAt: 14:25
+img: pablo-bernabeu.png
+preview: pablo-bernabeu.png
+client: PhD student at Lancaster University
+clientLink: "#"
+bio: ""
+category: Category 1
+description: "Scientific articles have been including more and more supplementary materials, which are ever more advanced. This has been facilitated by burgeoning technologies and available training. Another contributor was the replication crisis in psychology. As a result, nowadays, researchers customarily examine the data and code for studies, and the same may be done by members of the public, too. Standard materials such as data sets and code scripts could be referred to as Version 1.0. Excitingly, software developers and contributors have brought forward Version 2.0 already! Let’s look at some R-based applications. 1.  Binder environments —  Enable public access to your data and code in RStudio, directly on the Internet. We'll look at requirements and possibilities, such as Shiny apps. 2.  RMarkdown reports —  Set your input and output in stone, and attractively, with RMarkdown reports, enriched with website features (CSS, 'pagedown'), and published as websites, PDF, or Word. 3.  Online data dashboards —  The better part of this session covers a further step in open data, namely, online dashboards displaying tables and plots. These all-reproducible applications are published as websites, and therefore, can include hyperlinks and downloadable files. Some of the R packages used are ‘knitr,’ 'reactable,' ‘ggplot,’ ‘plotly,’ 'rmarkdown,' ‘flexdashboard,’ and ‘shiny.’ The aim is to look at different forms of dashboards (Flexdashboard and Shiny), and the suitable platforms for online hosting (personal websites and RPubs, Binder, Shinyapps, and custom servers). A great thing: dashboards may be made very simple, but they also offer the possibility of infinite improvement. This participatory, practical session draws on real examples. Common challenges will be flagged, and further resources provided." 
+talk: true
+
+

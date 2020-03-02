@@ -1,0 +1,16 @@
+modalID: 2
+title: "Theo Roe"
+subtitle: "Improving the Communication of Environmental Data Using Shiny"
+date: 2020-04-04
+startsAt: 10:15
+endsAt: 10:40
+img: theo-roe.jpg
+preview: theo-roe.jpg
+client: Data Scientist at Jumping Rivers
+clientLink: "#"
+bio: ""
+category: Category 1
+description: "Countries are big. Rivers are long. Countries have a lot of rivers. The government-run environment agency has a wealth of data relating to the health of rivers in the UK. The problem being that it's difficult to explore the data and thus hard to build any tools using the data. We've built a Shiny app that allows for visual exploration of the river health in the UK. We want to talk about some of the harder parts of the the data prep and the cool parts of the Shiny app."
+talk: true
+
+

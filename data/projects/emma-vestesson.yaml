@@ -1,0 +1,16 @@
+modalID: 6
+title: "Emma Vestesson"
+subtitle: "R for personalised medicine"
+date: 2020-04-04
+startsAt: 13:35
+endsAt: 14:00
+img: emma-vestesson.jpg
+preview: emma-vestesson.jpg
+client: Senior data analyst & PhD student at UCL Institute of Child Health and the Health Foundation
+clientLink: "#"
+bio: ""
+category: Category 1
+description: "Getting the dose right for chemotherapy drugs is important but can be hard. A dose that is too low is not enough to kill the cancer but a dose that is too high can result in severe side-effects. In addition to this, knowing when the drug has left the body allows clinicians to know when it safe to discharge a patient. Estimating the best dose for a patient also depends on factors such as age, sex, weight and kidney function. What happens to the drug in the body can be estimated using non-linear mixed effects model but these are complex models that can’t be calculated by hand by a clinician. In comes R Shiny, a way to give clinicians the power of modelling but without having to write any code. I’ve built a shiny app that predicts when the drug has left the body that I hope will change clinical practice. In my talk I will discuss some of the technical challenges I encountered and some nifty packages that helped me along the way. I will also cover design choices I had to consider when trying build an app that is useful and most importantly safe within a hospital setting. This includes technical problems such as making sure that old inputs and calculations are cleared when new patient data is entered or making a dynamic input widget based on user input. It also includes working with pharmacists when designing the user interface and what outputs where the most useful to them. Finally I will discuss the challenge of deploying an app within the NHS and what to consider when working with patient data. This talk is for anyone who wants to move from basic shiny apps to using R in production."
+talk: true
+
+

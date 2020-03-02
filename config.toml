@@ -7,6 +7,10 @@ theme = ["hugo-satrdays-theme", "hugo-agency-theme"]
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 
+# Disable taxonomies that are not used https://discourse.gohugo.io/t/found-no-layout-for-taxonomyterm-language-en-output-format-html/16376
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+
 [params]
   # You can use Markdown syntax for urls [text](//url.to/source) or
   # most longer texts.
@@ -33,7 +37,7 @@ googleAnalytics = ""
   # 404 error customization
   [params.error404]
     heading = "Page couldn't be found"
-    text = "Perhaps try our [homepage](https://newcastle2019.satrdays.org/) again"
+    text = "Perhaps try our [homepage](https://newcastle2020.satrdays.org/) again"
 
   # Optional piwik tracking
   #[params.analytics.piwik]
@@ -98,24 +102,6 @@ googleAnalytics = ""
       url = "#"
 
     [[params.services.row.list]]
-      icon = "fa-laptop"
-      title = "Hands on"
-      description = "Practical applications and workshop sessions"
-      url = "#"
-
-    [[params.services.row.list]]
-      icon = "fa-graduation-cap"
-      title = "Learning"
-      description = "Gain knowledge from your peers and experienced professionals"
-      url = "#"
-
-    [[params.services.row.list]]
-      icon = "fa-users"
-      title = "Community Lead"
-      description = "Community organised, community focussed"
-      url = "#"
-
-    [[params.services.row.list]]
       icon = "fa-money"
       title = "Affordable"
       description = "Only £30"
@@ -136,7 +122,7 @@ googleAnalytics = ""
     bg = true
 
    [params.mailchimp]
-    enable = true
+    enable = false
     title = "Sign up for e-mail updates"
     bg = true
 
@@ -147,7 +133,7 @@ googleAnalytics = ""
     bg = true
     accountevent = "ultimateconf/2013"
       # Go to https://ti.to/ and find the account (under your user) and event pair string e.g. "cardiff-satrday/2018"
-      # include botht the account and event in a string, seperated by /, with no spaces
+      # include both the account and event in a string, seperated by /, with no spaces
 
   [params.eventbrite]
     enable = false
@@ -179,24 +165,25 @@ googleAnalytics = ""
 
   # Talk [Portfolio] section
   [params.portfolio]
-    enable = false
+    enable = true
     # All projects defined in their own files. You can find example projects
     # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
     title = "Talks"
-    subtitle = "Who's saying what"
-    bg = true
+    subtitle = ""
+    bg = false
 
     [params.portfolio.modal]
       client = "Client"
       date = "Date"
       category = "Category"
-      buttonText = "Close project"
+      buttonText = "Close"
+
 
   # Schedule section
   [params.schedule]
-    enable = false
+    enable = true
     title = "Schedule"
     bg = false
 
@@ -213,15 +200,15 @@ googleAnalytics = ""
 
     [[params.about.events]]
       img = "1.jpg"
-      date = "01/10/2019"
-      title = "Early Bird Ticket Sales"
-      description = "Early round of tickets now available at discount."
-
-    [[params.about.events]]
-      img = "3.jpg"
       date = "02/12/2019 - 31/01/2020"
       title = "Call For Papers"
       description = "Submissions for speakers has closed."
+
+   [[params.about.events]]
+      img = "3.jpg"
+      date = "03/04/2020"
+      title = "Tutorials"
+      description = "Workshops on Sentiment Analysis (by Julia Silge) and Building an R package (by Jumping Rivers). Register <a href = 'https://webstore.ncl.ac.uk/conferences-and-events/faculty-of-science-agriculture-engineering/mathematics-statistics-and-physics/satrdays-tutorial'>here.</a>"
 
   # Location section
   [params.location]

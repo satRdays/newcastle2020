@@ -1,0 +1,17 @@
+modalID: 4
+title: "Kenneth McLean"
+subtitle: "ImpactR: Deriving and quantifying impact of biomedical research publications."
+date: 2020-03-14
+startsAt: 11:55
+endsAt: 12:20
+img: kenneth-mcLean.jpg
+preview: kenneth-mcLean.jpg
+client: Clinical Reseach Fellow at University of Edinburgh
+
+clientLink: "#"
+bio: ""
+category: Category 1
+description: "Introduction: Demonstrating the impact of research is essential to evidence its value to stakeholders (whether the public, peers, research or funding organisations, etc). Furthermore, although traditional (citation- or journal-based) metrics of research impact remain highly regarded, the scope of research impact has broadened to emphasise engagement and direct patient benefit. While individual packages are available to explore the impact of research in R, these are often not designed for integration or optimised for further analysis. Methods: The ImpactR package aims to consolidate functionality from a range of existing packages (including RISMed, rcrossref, rAltmetric, scholar) into holistic and useful quantifications of biomedical research impact. Essential publication information and research metrics (altmetric, citations, journal impact factor) can be extracted from online repositories into a single dataframe using either PubMed identification numbers (PMID) or Digital Object Identifiers (DOI). This can either be used directly for data analysis or visualisation, or passed to further functions to provide a formatted citation list (“cite_publication”); additional altmetric (“impact_altmetric”) and citation metrics ('impact_cite'); or data on co-authorship networks ('impact_auth').Applications: The ImpactR package facilitates research groups and/or academics to better understand and demonstrate the impact of their research to stakeholders. These functions have a range of applications from generating publication lists for curricula vitae, or quantifying research impact through traditional metrics (citations, journal impact factor), authorship networks, or social media. However, it should be emphasised this package does not encompass all measures of impact from a research output, including direct patient benefit. The package is available on GitHub (https://github.com/kamclean/impactr) alongside vignettes on its use, and is designed to be user-friendly and applicable to all publications in biomedical journals with a PMID or DOI."
+talk: true
+
+
