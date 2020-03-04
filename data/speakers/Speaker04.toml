@@ -1,0 +1,10 @@
+img = "../portfolio/stepan-big.png"
+name = "Stepan Sindelar"
+organisation = "Oracle Labs"
+role = "Developer"
+social = [
+        ["fa-twitter", "https://twitter.com/stevesindelarcz"],
+        ["fa-github", "https://github.com/steve-s"],
+        ["fa-linkedin", "https://www.linkedin.com/in/stevesindelarcz"],
+        ["fa-globe", "https://github.com/oracle/fastr"]
+      ]

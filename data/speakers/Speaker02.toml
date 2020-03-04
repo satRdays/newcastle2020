@@ -1,6 +1,6 @@
 img = "profile-julia.png"
 name = "Julia Silge"
-organisation = "Author of Text Mining with R"
+organisation = "RStudio"
 role = "Data Scientist"
 social = [
         ["fa-twitter", "https://twitter.com/juliasilge"],

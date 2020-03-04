@@ -1,0 +1,9 @@
+img = "../portfolio/kenneth-mcLean.jpg"
+name = "Kenneth McLean"
+organisation = "University of Edinburgh"
+role = "Clinical Reseach Fellow"
+social = [
+        ["fa-twitter", "https://twitter.com/kennethmclean92"],
+        ["fa-github", "https://github.com/kamclean"],
+        ["fa-linkedin", "https://www.linkedin.com/in/kenneth-mclean-1aa1801a3/"]
+      ]

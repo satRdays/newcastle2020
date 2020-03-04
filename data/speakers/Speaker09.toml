@@ -1,0 +1,10 @@
+img = "../portfolio/chris-mainey.png"
+name = "Chris Mainey"
+organisation = "University Hospitals Birmingham NHS Foundation Trust"
+role = "Senior Statistical Intelligence Analyst"
+social = [
+        ["fa-twitter", "https://twitter.com/chrismainey"],
+        ["fa-github", "https://github.com/chrismainey"],
+        ["fa-linkedin", "https://uk.linkedin.com/in/chrismainey"],
+        ["fa-globe", "https://mainard.co.uk/"]
+      ]

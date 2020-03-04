@@ -1,0 +1,10 @@
+img = "../portfolio/pablo-bernabeu.png"
+name = "Pablo De Juan Bernabeu"
+organisation = "Lancaster University"
+role = "PhD student"
+social = [
+        ["fa-twitter", "https://twitter.com/PabloBernabeu_"],
+        ["fa-github", "https://github.com/pablobernabeu/"],
+        ["fa-linkedin", "https://uk.linkedin.com/in/pablobernabeu"],
+        ["fa-globe", "https://github.com/pablobernabeu/Data-is-present/blob/master/README.md"]
+      ]

@@ -1,0 +1,10 @@
+img = "../portfolio/emma-vestesson.jpg"
+name = "Emma Vestesson"
+organisation = "UCL Institute of Child Health and the Health Foundation"
+role = "Senior data analyst, PhD student"
+social = [
+        ["fa-twitter", "https://twitter.com/gummifot?lang=en"],
+        ["fa-github", "https://github.com/emmavestesson"],
+        ["fa-linkedin", "https://uk.linkedin.com/in/emmavestesson"],
+        ["fa-globe", "https://emmavestesson.netlify.com/"]
+      ]

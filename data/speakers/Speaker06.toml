@@ -1,0 +1,9 @@
+img = "../portfolio/russ-hyde.jpg"
+name = "Russ Hyde"
+organisation = "University of Glasgow"
+role = "Bioinformatician"
+social = [
+        ["fa-twitter", "https://twitter.com/haematobot"],
+        ["fa-github", "https://github.com/russHyde"],
+        ["fa-globe", "http://russ-hyde.rbind.io/"]
+      ]

@@ -1,0 +1,9 @@
+img = "../portfolio/theo-roe.jpg"
+name = "Theo Roe"
+organisation = "Jumping Rivers"
+role = "Data Scientist"
+social = [
+        ["fa-github", "https://github.com/theoroe3"],
+        ["fa-linkedin", "https://www.linkedin.com/in/theoroe3"],
+        ["fa-globe", "https://www.jumpingrivers.com/"]
+      ]
