@@ -1,6 +1,6 @@
 modalID: 10
 title: "Julia Silge"
-subtitle: "TBC"
+subtitle: "Understanding Word Embeddings"
 date: 2020-04-04
 startsAt: 15:25
 endsAt: 16:10
@@ -10,7 +10,7 @@ client: Data Scientist at RStudio
 clientLink: "#"
 bio: ""
 category: Category 1
-description: "TBC"
+description: "Modern natural language processing frameworks (including word2vec, GloVe, fastText, ULMFIT, and more) depend on word embeddings, a way of statistically modeling language where words or phrases are mapped to vectors of real numbers. In this talk, understand word embeddings by investigating how we can generate them using count-based statistics and dimensionality reduction, then learn how to make use of pre-trained embeddings based on enormous datasets. Finally, explore the ethical issues involved in using word embeddings and how they can amplify systemic and historical bias."
 talk: true
 
 
