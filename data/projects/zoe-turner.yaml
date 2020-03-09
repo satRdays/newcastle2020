@@ -1,0 +1,16 @@
+modalID: 3
+title: "Zoë Turner"
+subtitle: "Using R in Mortality Surveillance within a mental and general health secondary care NHS provider"
+date: 2020-04-04
+startsAt: 11:30
+endsAt: 11:55
+img: zoe-turner.png
+preview: zoe-turner.png
+client: "Senior Information Analyst at Nottinghamshire Healthcare NHS Foundation Trust"
+clientLink: "#"
+bio: ""
+category: Category 1
+description: "In 1991, the so called 'Angel of Death' was convicted of the deaths of 4 children, attempting to murder 3 other children, and causing grievous bodily harm to a further 6 who had been inpatients at Grantham and Kesteven Hospital, Lincolnshire. In 2000, Harold Shipman was convicted of the murder of 15 patients with a later estimate putting the figure at 215 or more. In 2015, Victorino Chua was convicted of the murder of 2 patients and poisoned as many as 19 other patients at Stepping Hill Hospital, Stockport. Of the 190,000 patients seen every year at my NHS Trust around 4.7% have a recorded death. How do we know that these deaths are natural, unavoidable and not related to major systemic problems or even murder? Using data collected from 6 clinical systems, I: 1) use an RMarkdown report to show seasonality and age patterns of deaths; 2) track variation by using qicharts2 (based on ggplot2) for SPC (statistical process control charts) and Pareto charts; 3) use dplyr to get the details of the specific patients behind the points for focused checks.""
+talk: true
+
+
