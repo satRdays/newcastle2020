@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
   name = "satRday Newcastle upon Tyne 2020"
-  description = "R conference in Newcastle upon Tyne"
+  description = "R conference in Newcastle upon Tyne: Rescheduled date TBC"
   email = "info@jumpingrivers.com"
 
   # Link custom assets relative to /static
@@ -82,7 +82,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
     title = "satRday Newcastle upon Tyne 2020"
-    subtitle = "A conference for users of the R Language on 4th April 2020"
+    subtitle = "Rescheduled: Coming Autumn 2020"
     bg = true
     buttonText = "Tell me more"
 
@@ -98,7 +98,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-clock-o"
       title = "Details"
-      description = "4th April 2020 at Newcastle University"
+      description = "Autumn 2020 at Newcastle University"
       url = "#"
 
     [[params.services.row.list]]
@@ -189,7 +189,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Important Dates [About] section
   [params.about]
-    enable = true
+    enable = false
     title = "Important Dates"
     subtitle = "Save the date!"
     endpoint = "Conference"
