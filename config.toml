@@ -3,6 +3,7 @@ baseurl = "https://newcastle2020.satrdays.org/"
 languageCode = "en-us"
 title = "satRday"
 theme = ["hugo-satrdays-theme", "hugo-agency-theme"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
@@ -82,7 +83,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
     title = "satRday Newcastle upon Tyne 2020"
-    subtitle = "Rescheduled: Coming Autumn 2020"
+    subtitle = "CANCELLED"
     bg = true
     buttonText = "Tell me more"
 
@@ -98,7 +99,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-clock-o"
       title = "Details"
-      description = "Autumn 2020 at Newcastle University"
+      description = "CANCELLED"
       url = "#"
 
     [[params.services.row.list]]
